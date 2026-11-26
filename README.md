@@ -24,7 +24,7 @@
 
 ---
 
-## 01  /  Profile
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=54&text=01%20%2F%20Profile&fontSize=27&fontColor=F2F2F2&fontFamily=Playfair%20Display&fontAlign=0&fontAlignY=70" width="100%" alt="01 / Profile"/>
 
 I build practical AI applications, agentic workflows, and automation tools. I care about the details that make software dependable: structured outputs, explicit validation, reliable tool use, and clear failure handling.
 
@@ -43,9 +43,9 @@ Python · LLM APIs · FastAPI · TypeScript
 
 ---
 
-## 02  /  Selected work
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=54&text=02%20%2F%20Selected%20Work&fontSize=27&fontColor=F2F2F2&fontFamily=Playfair%20Display&fontAlign=0&fontAlignY=70" width="100%" alt="02 / Selected Work"/>
 
-### 01. Afterhours
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=42&text=01.%20Afterhours&fontSize=22&fontColor=E8E8E8&fontFamily=Playfair%20Display&fontAlign=0&fontAlignY=70" width="100%" alt="01. Afterhours"/>
 
 <sub>FULL-STACK PRODUCT &nbsp;·&nbsp; AI-ASSISTED DISCOVERY</sub>
 
@@ -57,7 +57,7 @@ Interest-based social discovery with profile matching, AI-assisted meetup planni
 
 <br/>
 
-### 02. BOQ Tender Review
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=42&text=02.%20BOQ%20Tender%20Review&fontSize=22&fontColor=E8E8E8&fontFamily=Playfair%20Display&fontAlign=0&fontAlignY=70" width="100%" alt="02. BOQ Tender Review"/>
 
 <sub>DOCUMENT AI &nbsp;·&nbsp; ENGINEERING WORKFLOW</sub>
 
@@ -69,7 +69,7 @@ A tender review assistant for extracting BOQ data, checking specification alignm
 
 <br/>
 
-### 03. Job Match Agent
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=42&text=03.%20Job%20Match%20Agent&fontSize=22&fontColor=E8E8E8&fontFamily=Playfair%20Display&fontAlign=0&fontAlignY=70" width="100%" alt="03. Job Match Agent"/>
 
 <sub>LLM &nbsp;·&nbsp; EXPLAINABLE MATCHING</sub>
 
@@ -81,7 +81,7 @@ Resume-to-role analysis combining extracted requirements, deterministic rules, a
 
 <br/>
 
-### 04. Meeting Agent
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=42&text=04.%20Meeting%20Agent&fontSize=22&fontColor=E8E8E8&fontFamily=Playfair%20Display&fontAlign=0&fontAlignY=70" width="100%" alt="04. Meeting Agent"/>
 
 <sub>AGENTIC WORKFLOW &nbsp;·&nbsp; TOOL USE</sub>
 
@@ -93,7 +93,7 @@ A scheduling agent with availability checks, timezone-aware booking, and overlap
 
 <br/>
 
-### 05. Calendar MCP
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=42&text=05.%20Calendar%20MCP&fontSize=22&fontColor=E8E8E8&fontFamily=Playfair%20Display&fontAlign=0&fontAlignY=70" width="100%" alt="05. Calendar MCP"/>
 
 <sub>MODEL CONTEXT PROTOCOL</sub>
 
@@ -105,7 +105,7 @@ A lightweight MCP server that exposes calendar inspection, slot discovery, and b
 
 <br/>
 
-### 06. Ticket Triage
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=42&text=06.%20Ticket%20Triage&fontSize=22&fontColor=E8E8E8&fontFamily=Playfair%20Display&fontAlign=0&fontAlignY=70" width="100%" alt="06. Ticket Triage"/>
 
 <sub>STRUCTURED CLASSIFICATION</sub>
 
@@ -128,7 +128,7 @@ BOQ-based construction cost and embodied-carbon analysis, with material alternat
 
 ---
 
-## 03  /  Technology
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=54&text=03%20%2F%20Technology&fontSize=27&fontColor=F2F2F2&fontFamily=Playfair%20Display&fontAlign=0&fontAlignY=70" width="100%" alt="03 / Technology"/>
 
 <div align="center">
 
@@ -167,7 +167,7 @@ BOQ-based construction cost and embodied-carbon analysis, with material alternat
 
 ---
 
-## 04  /  What I'm exploring
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=54&text=04%20%2F%20Current%20Interests&fontSize=27&fontColor=F2F2F2&fontFamily=Playfair%20Display&fontAlign=0&fontAlignY=70" width="100%" alt="04 / Current Interests"/>
 
 - Reliable agent architecture and orchestration
 - Retrieval, evaluation, and grounded generation
