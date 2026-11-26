@@ -132,29 +132,38 @@ Support ticket classification with validated outputs, urgency detection, and adv
 
 <br/>
 
-### 03 &nbsp; / &nbsp; TOOLBOX
+### 03 &nbsp; / &nbsp; TECHNOLOGIES
 
 <div align="center">
 
 <sub>LANGUAGES</sub>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,postgres&theme=dark" alt="Python, C++, JavaScript, TypeScript, PostgreSQL"/>
+<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=E6E6E6"/>
+<img src="https://img.shields.io/badge/C%2B%2B-111111?style=flat-square&logo=cplusplus&logoColor=E6E6E6"/>
+<img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=E6E6E6"/>
+<img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=E6E6E6"/>
+<img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=E6E6E6"/>
 
 <br/><br/>
 
-<sub>FRAMEWORKS & TOOLS</sub>
+<sub>FRAMEWORKS & INFRASTRUCTURE</sub>
 
-<img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,git,github,linux&theme=dark" alt="FastAPI, React, Next.js, Git, GitHub, Linux"/>
+<img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=E6E6E6"/>
+<img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=E6E6E6"/>
+<img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=E6E6E6"/>
+<img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=E6E6E6"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=E6E6E6"/>
+<img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=E6E6E6"/>
 
 <br/><br/>
 
-<sub>AI · DATA · TESTING</sub>
+<sub>AI & ENGINEERING</sub>
 
-<img src="https://img.shields.io/badge/LLM%20APIs-161616?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/MCP-161616?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pydantic-161616?style=flat-square&logo=pydantic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-161616?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pytest-161616?style=flat-square&logo=pytest&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM_APIs-111111?style=flat-square&logo=openai&logoColor=E6E6E6"/>
+<img src="https://img.shields.io/badge/MCP-111111?style=flat-square&logoColor=E6E6E6"/>
+<img src="https://img.shields.io/badge/Pydantic-111111?style=flat-square&logo=pydantic&logoColor=E6E6E6"/>
+<img src="https://img.shields.io/badge/Streamlit-111111?style=flat-square&logo=streamlit&logoColor=E6E6E6"/>
+<img src="https://img.shields.io/badge/Pytest-111111?style=flat-square&logo=pytest&logoColor=E6E6E6"/>
 
 </div>
 
