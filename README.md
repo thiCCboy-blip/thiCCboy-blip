@@ -1,94 +1,147 @@
-# AMRUTH Raj
+<!--
+  AMRUTH RAJ | GitHub Profile
+  Theme: monochrome / minimal
+-->
 
-Civil engineer (NIT Calicut) building and evaluating LLM systems for
-document-heavy construction workflows — tender review, quantity verification,
-bid comparison.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:171717&height=180&section=header&text=AMRUTH%20RAJ&fontSize=46&fontColor=FFFFFF&fontAlignY=43&desc=AI%20ENGINEERING%20%2F%20AGENTIC%20SYSTEMS%20%2F%20PYTHON&descSize=12&descAlignY=68&descColor=AAAAAA" width="100%" alt="Amruth Raj profile banner" />
+  <br/>
+  <a href="https://github.com/thiCCboy-blip"><img src="https://img.shields.io/badge/GitHub-thiCCboy--blip-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub profile"/></a>
+  <img src="https://komarev.com/ghpvc/?username=thiCCboy-blip&style=flat-square&color=333333&label=PROFILE+VIEWS" alt="Profile views"/>
+  <h3>Building practical AI systems that solve real problems.</h3>
+  <sub>AI Engineer · Python Developer · Agentic AI Enthusiast</sub>
+</div>
 
-Currently seeking roles where applied AI meets pre-contract and estimating work:
-Applied AI / AI deployment engineering, and GCC-region opportunities in
-construction technology and project controls.
+---
 
-## Measuring retrieval instead of assuming it works
+## / ABOUT
 
-My tender-review agent originally matched BOQ line items to extracted tender
-items using token-overlap scoring. I chose it for explainability, not accuracy,
-and the README conceded it might miss synonyms. That is a guess, so I built a
-fixture to test it.
+I'm a developer focused on practical AI applications, LLM-powered workflows, and autonomous tool-using agents. I care about systems that are not only impressive in a demo, but testable, explainable, and useful in real workflows.
 
-The fixture is 20 labelled cases built from the two situations that break a
-lexical matcher:
+- B.Tech in Civil Engineering, **NIT Calicut**
+- Building LLM applications, agentic workflows, and automation tools
+- Exploring retrieval, structured outputs, evaluation, and MCP integrations
+- Interested in applied AI across document-heavy and operational workflows
 
-- **Synonym pairs** where the same work item is named differently
-- **Hard negatives** differing by one distinguishing attribute
+**Engineering principle:** use models where language understanding helps; use deterministic code where correctness must be enforced.
 
-| Strategy | hit@1 | hit@3 | MRR | Backend |
-| --- | ---: | ---: | ---: | --- |
-| `token_overlap` | 0.200 | 1.000 | 0.575 | in-process |
-| `tfidf` | 0.200 | 0.900 | 0.558 | in-process |
+---
 
-Two results, and the second one matters more than a win would have.
+## / TECH STACK
 
-**The baseline is weak.** The correct item lands in the top three *every time*
-and first in only one case in five.
+<div align="center">
+  <strong>LANGUAGES</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,postgres&theme=dark" alt="Python, C++, JavaScript and PostgreSQL icons"/>
+  <br/><br/>
+  <strong>TOOLS & ENVIRONMENT</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" alt="Git, GitHub, Linux and VS Code icons"/>
+  <br/><br/>
+  <strong>AI & ENGINEERING</strong><br/><br/>
+  <img src="https://img.shields.io/badge/OpenAI_API-111111?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API"/>
+  <img src="https://img.shields.io/badge/Pydantic-111111?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic"/>
+  <img src="https://img.shields.io/badge/Streamlit-111111?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Pytest-111111?style=flat-square&logo=pytest&logoColor=white" alt="Pytest"/>
+  <img src="https://img.shields.io/badge/MCP-111111?style=flat-square&logoColor=white" alt="Model Context Protocol"/>
+</div>
 
-**A better lexical scorer does not fix it.** TF-IDF scores the same 0.200. The
-gap is not poorly weighted vocabulary, it is absent vocabulary: "reinforcement"
-and "rebar" never co-occur in a candidate list, so no reweighting of the terms
-that are present can surface the match. That negative result is the argument for
-a semantic model rather than a better overlap function.
+---
 
-Of the 16 failures, 11 are synonym cases and 5 are hard negatives — and they
-break for opposite reasons. Synonyms have no lexical bridge, so the correct item
-scores near zero. Hard negatives have too much: "Tiling to wet area walls" vs
-"Tiling to wet area floors" differ by one token, so the shared terms outweigh
-the distinguishing one and the matcher is confidently wrong.
+## / SELECTED PROJECTS
 
-A semantic fix (embeddings + reciprocal rank fusion, fused by rank position so
-no tuned weight is needed between incomparable scores) is implemented but
-**unverified** — the API account had no credit when the run was recorded. The
-harness reports the skip and names each backend rather than quietly showing
-fewer rows. Both reported strategies run with no API key and no third-party
-dependency, so the table reproduces on a clean clone.
+### 01 · [BOQ Tender Review Agent](https://github.com/thiCCboy-blip/boq-tender-review-agent)
+[Live demo](https://amruu-boq-agent.streamlit.app/)
 
-→ [boq-tender-review-agent](https://github.com/thiCCboy-blip/boq-tender-review-agent) ·
-[live app](https://amruu-boq-agent.streamlit.app/)
+AI-assisted review of Bills of Quantities against tender specifications.
 
-## Other work
+- Extracts structured work items with source excerpts using OpenAI Structured Outputs and Pydantic.
+- Applies deterministic matching, unit normalization, and quantity/amount checks.
+- Evaluates retrieval strategies against labelled synonym and hard-negative cases.
+- Reports latency, token usage, and evaluation metrics.
 
-**Tender Review Agent** — deployed extraction service on the OpenAI Responses
-API using Structured Outputs with Pydantic validation. The LLM handles
-unstructured extraction only; a deterministic layer handles matching, unit
-normalization, and quantity checks, so every discrepancy traces to a source
-excerpt rather than a model judgement call. Reports latency, token usage, and
-configurable cost per run. 55 automated tests in CI.
+**Stack:** Python · OpenAI API · Pydantic · Streamlit · pytest
 
-**Pre-contract benchmark** *(private)* — a 26-criterion, 0–2 point rubric
-grading a 3+ hour lump-sum municipal bid across quote leveling, markup
-build-up, alternates, unit pricing, schedule analysis, and MWBE compliance.
-11 planted professional errors, including a roof panel priced to 76,000 SF
-against a 71,500 SF drawing area, six spec-mandated scopes omitted from
-subcontractor quotes, and a 420-day milestone carrying 7 days of float against
-an owner-controlled schedule risk. Golden figures regenerate from raw CSVs in
-pure standard library, so grading is reproducible and the dataset cannot
-silently drift.
+### 02 · [Job Match Agent](https://github.com/thiCCboy-blip/job-match-agent)
 
-I keep the pricing data private. A realistic tender package, even synthetic, can
-be mistaken for live bid material — the rubric design is the part worth
-publishing, and I'm happy to walk through it.
+An explainable resume-to-job matching tool designed to distinguish genuine qualifications from keyword overlap.
 
-## Domain background
+- Extracts job requirements from PDF, DOCX, Markdown, and text.
+- Combines model-assisted extraction with deterministic matching rules.
+- Produces evidence-backed explanations for satisfied and missing requirements.
+- Supports local open-weight models and a rules-only backend.
 
-B.Tech Civil Engineering, NIT Calicut. Site execution at Sobha Constructions;
-project documentation and reporting at Inspire Leap; BOQ and quantity take-off
-internships at Samara Consultants and ULCCS. Comfortable in the vocabulary of
-tender packages, which is what makes the fixtures above realistic.
+**Stack:** Python · LLMs · NLP · Embeddings · pytest
 
-Research: geopolymer concrete mix design and ASTM-standard lab testing, with
-material quantity and cost estimation.
+### 03 · [Meeting Booking Agent](https://github.com/thiCCboy-blip/meeting-agent)
 
-## Skills
+A tool-using agent that schedules meetings from plain-English requests.
 
-Python · OpenAI Responses API · Structured Outputs · Pydantic · retrieval ·
-evaluation design (hit@k, MRR, precision/recall/F1) · pytest · Streamlit ·
-GitHub Actions · BOQ preparation · quantity take-offs · tender documentation ·
-rate analysis · Primavera P6 · AutoCAD / Civil 3D
+- Checks calendar availability before booking.
+- Enforces overlap prevention in code, not only in prompts.
+- Uses file locking and atomic writes to protect concurrent bookings.
+- Handles time zones and daylight-saving transitions.
+
+**Stack:** Python · Tool Calling · Time Zones · Concurrency · pytest
+
+### 04 · [Calendar MCP Server](https://github.com/thiCCboy-blip/calendar-mcp)
+
+A lightweight Model Context Protocol server exposing calendar operations to AI clients.
+
+- Implements stdio JSON-RPC using Python.
+- Exposes calendar inspection, slot-finding, and booking tools.
+- Supports constraint-aware, multi-person scheduling.
+- Enforces timezone-aware booking constraints.
+
+**Stack:** Python · MCP · JSON-RPC
+
+### 05 · [Support Ticket Triage](https://github.com/thiCCboy-blip/ticket-triage)
+
+An LLM-powered ticket classifier that returns structured category, urgency, and summary fields.
+
+- Uses explicit classification rules and constrained output expectations.
+- Handles vague, off-topic, and adversarial ticket content.
+- Includes retry and response-validation logic.
+- Recorded 50/50 valid JSON responses in a sample NVIDIA NIM run.
+
+**Stack:** Python · LLM APIs · Prompt Engineering · JSON
+
+### 06 · [Carbon Cost Estimator](https://github.com/thiCCboy-blip/carbon-cost-estimator)
+
+A Python and Streamlit dashboard for construction cost and embodied-carbon scenario analysis.
+
+- Calculates BOQ-based cost and embodied carbon.
+- Compares conventional and lower-carbon material alternatives.
+- Models carbon-price trade-offs and marginal abatement cost.
+- Exports detailed analysis to Excel.
+
+**Stack:** Python · Streamlit · Data Analysis · Excel
+
+---
+
+## / GITHUB ACTIVITY
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=thiCCboy-blip&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&include_all_commits=true" alt="GitHub statistics"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiCCboy-blip&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=AAAAAA" alt="Most used languages"/>
+  <br/>
+  <img width="72%" src="https://streak-stats.demolab.com?user=thiCCboy-blip&theme=transparent&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&dates=777777" alt="GitHub contribution streak"/>
+</div>
+
+---
+
+## / CURRENT FOCUS
+
+- Reliable agentic workflows and tool orchestration
+- Retrieval quality, evaluation, and grounded LLM outputs
+- MCP integrations and practical AI automation
+- Applying AI to document-heavy and operational processes
+
+---
+
+<div align="center">
+  <sub><strong>LESS HYPE. MORE ENGINEERING.</strong></sub><br/>
+  <sub>Designing, building, testing, and improving intelligent systems.</sub>
+  <br/><br/>
+  <a href="https://github.com/thiCCboy-blip">GitHub</a>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:171717,100:000000&height=55&section=footer" width="100%" alt="Minimal dark footer"/>
+</div>
