@@ -1,19 +1,21 @@
-<!-- AMRUTH RAJ · MONOCHROME PORTFOLIO -->
+<!-- AMRUTH RAJ · MONOCHROME EDITORIAL PORTFOLIO -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:111111,100:050505&height=250&section=header&text=AMRUTH%20RAJ&fontSize=60&fontColor=F5F5F5&fontAlignY=40&desc=AI%20ENGINEERING%20%20%E2%80%A2%20%20AGENTIC%20SYSTEMS%20%20%E2%80%A2%20%20PYTHON&descSize=12&descAlignY=66&descColor=A0A0A0" width="100%" alt="Amruth Raj"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:101010,100:050505&height=270&section=header&text=Amruth%20Raj&fontSize=68&fontColor=F2F2F2&fontAlignY=39&fontFamily=Playfair%20Display&desc=ARTIFICIAL%20INTELLIGENCE%20%20%2F%20%20AGENTIC%20SYSTEMS%20%20%2F%20%20SOFTWARE&descSize=11&descAlignY=66&descColor=929292" width="100%" alt="Amruth Raj"/>
 
 <br/>
 
-**Building thoughtful software at the intersection of AI and engineering.**
+*Building thoughtful software at the intersection of AI and engineering.*
+
+<br/>
 
 <sub>PYTHON &nbsp;·&nbsp; LLM APPLICATIONS &nbsp;·&nbsp; AGENTIC WORKFLOWS</sub>
 
 <br/><br/>
 
-<a href="https://github.com/thiCCboy-blip?tab=repositories">PROJECTS</a>
-&nbsp;&nbsp; · &nbsp;&nbsp;
+<a href="https://github.com/thiCCboy-blip?tab=repositories">EXPLORE PROJECTS</a>
+&nbsp;&nbsp; / &nbsp;&nbsp;
 <a href="https://github.com/thiCCboy-blip">GITHUB</a>
 
 </div>
@@ -22,95 +24,103 @@
 
 ---
 
-### 01 &nbsp; / &nbsp; ABOUT
+## 01  /  Profile
 
-I build practical AI applications, agentic workflows, and automation tools. My focus is on systems that are useful beyond the demo: structured outputs, explicit validation, reliable tool use, and clear failure handling.
+I build practical AI applications, agentic workflows, and automation tools. I care about the details that make software dependable: structured outputs, explicit validation, reliable tool use, and clear failure handling.
 
-<sub>BASED IN</sub>  
+<br/>
+
+<sub>LOCATION</sub>  
 India
 
 <sub>EDUCATION</sub>  
-B.Tech, Civil Engineering · NIT Calicut
+B.Tech · Civil Engineering · NIT Calicut
 
-<sub>WORKING WITH</sub>  
+<sub>CORE STACK</sub>  
 Python · LLM APIs · FastAPI · TypeScript
 
 <br/>
 
 ---
 
-### 02 &nbsp; / &nbsp; SELECTED PROJECTS
+## 02  /  Selected work
 
-**01 — AFTERHOURS**  
-<sub>FULL-STACK PRODUCT · AI-ASSISTED DISCOVERY</sub>
+### 01. Afterhours
+
+<sub>FULL-STACK PRODUCT &nbsp;·&nbsp; AI-ASSISTED DISCOVERY</sub>
 
 Interest-based social discovery with profile matching, AI-assisted meetup planning, and coordination workflows.
 
 <sub>Next.js · React · TypeScript · FastAPI · SQLite</sub>
 
-[VIEW PROJECT ↗](https://github.com/thiCCboy-blip/afterhours-social-discovery)
+[Explore repository ↗](https://github.com/thiCCboy-blip/afterhours-social-discovery)
 
 <br/>
 
-**02 — BOQ TENDER REVIEW**  
-<sub>DOCUMENT AI · ENGINEERING WORKFLOW</sub>
+### 02. BOQ Tender Review
+
+<sub>DOCUMENT AI &nbsp;·&nbsp; ENGINEERING WORKFLOW</sub>
 
 A tender review assistant for extracting BOQ data, checking specification alignment, and surfacing evidence-backed findings.
 
 <sub>Python · OpenAI · Pydantic · Streamlit</sub>
 
-[REPOSITORY ↗](https://github.com/thiCCboy-blip/boq-tender-review-agent) · [LIVE DEMO ↗](https://amruu-boq-agent.streamlit.app/)
+[Repository ↗](https://github.com/thiCCboy-blip/boq-tender-review-agent) &nbsp;·&nbsp; [Live demo ↗](https://amruu-boq-agent.streamlit.app/)
 
 <br/>
 
-**03 — JOB MATCH AGENT**  
-<sub>LLM · EXPLAINABLE MATCHING</sub>
+### 03. Job Match Agent
+
+<sub>LLM &nbsp;·&nbsp; EXPLAINABLE MATCHING</sub>
 
 Resume-to-role analysis combining extracted requirements, deterministic rules, and evidence-backed match explanations.
 
 <sub>Python · LLMs · NLP</sub>
 
-[VIEW PROJECT ↗](https://github.com/thiCCboy-blip/job-match-agent)
+[Explore repository ↗](https://github.com/thiCCboy-blip/job-match-agent)
 
 <br/>
 
-**04 — MEETING AGENT**  
-<sub>AGENTIC WORKFLOW · TOOL USE</sub>
+### 04. Meeting Agent
+
+<sub>AGENTIC WORKFLOW &nbsp;·&nbsp; TOOL USE</sub>
 
 A scheduling agent with availability checks, timezone-aware booking, and overlap prevention.
 
 <sub>Python · Tool Calling · pytest</sub>
 
-[VIEW PROJECT ↗](https://github.com/thiCCboy-blip/meeting-agent)
+[Explore repository ↗](https://github.com/thiCCboy-blip/meeting-agent)
 
 <br/>
 
-**05 — CALENDAR MCP**  
+### 05. Calendar MCP
+
 <sub>MODEL CONTEXT PROTOCOL</sub>
 
 A lightweight MCP server that exposes calendar inspection, slot discovery, and booking tools to AI clients.
 
 <sub>Python · MCP · JSON-RPC</sub>
 
-[VIEW PROJECT ↗](https://github.com/thiCCboy-blip/calendar-mcp)
+[Explore repository ↗](https://github.com/thiCCboy-blip/calendar-mcp)
 
 <br/>
 
-**06 — TICKET TRIAGE**  
+### 06. Ticket Triage
+
 <sub>STRUCTURED CLASSIFICATION</sub>
 
 Support ticket classification with validated outputs, urgency detection, and adversarial-input handling.
 
 <sub>Python · LLM APIs · JSON</sub>
 
-[VIEW PROJECT ↗](https://github.com/thiCCboy-blip/ticket-triage)
+[Explore repository ↗](https://github.com/thiCCboy-blip/ticket-triage)
 
 <details>
-<summary><sub>MORE WORK · CARBON COST ESTIMATOR</sub></summary>
+<summary><sub>ADDITIONAL WORK · CARBON COST ESTIMATOR</sub></summary>
 
 BOQ-based construction cost and embodied-carbon analysis, with material alternatives and scenario modelling.
 
-[VIEW PROJECT ↗](https://github.com/thiCCboy-blip/carbon-cost-estimator)
+[Explore repository ↗](https://github.com/thiCCboy-blip/carbon-cost-estimator)
 
 </details>
 
@@ -118,7 +128,7 @@ BOQ-based construction cost and embodied-carbon analysis, with material alternat
 
 ---
 
-### 03 &nbsp; / &nbsp; TECHNOLOGIES
+## 03  /  Technology
 
 <div align="center">
 
@@ -155,7 +165,9 @@ BOQ-based construction cost and embodied-carbon analysis, with material alternat
 
 <br/>
 
-### 04 &nbsp; / &nbsp; CURRENT INTERESTS
+---
+
+## 04  /  What I'm exploring
 
 - Reliable agent architecture and orchestration
 - Retrieval, evaluation, and grounded generation
@@ -164,18 +176,16 @@ BOQ-based construction cost and embodied-carbon analysis, with material alternat
 
 <br/>
 
----
-
 <div align="center">
 
 <sub>LESS NOISE. MORE SIGNAL.</sub>
 
 <br/><br/>
 
-<a href="https://github.com/thiCCboy-blip?tab=repositories">EXPLORE ALL PROJECTS ↗</a>
+<a href="https://github.com/thiCCboy-blip?tab=repositories">VIEW ALL PROJECTS ↗</a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:111111,100:050505&height=70&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:101010,100:050505&height=70&section=footer" width="100%" alt=""/>
 
 </div>
