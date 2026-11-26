@@ -1,14 +1,12 @@
-<!-- AMRUTH RAJ · MONOCHROME EDITORIAL PORTFOLIO -->
+<!-- AMRUTH RAJ · CLEAN MONOCHROME PORTFOLIO -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:101010,100:050505&height=270&section=header&text=Amruth%20Raj&fontSize=68&fontColor=F2F2F2&fontAlignY=39&fontFamily=Playfair%20Display&desc=ARTIFICIAL%20INTELLIGENCE%20%20%2F%20%20AGENTIC%20SYSTEMS%20%20%2F%20%20SOFTWARE&descSize=11&descAlignY=66&descColor=929292" width="100%" alt="Amruth Raj"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:101010,100:050505&height=250&section=header&text=AMRUTH%20RAJ&fontSize=58&fontColor=F5F5F5&fontAlignY=40&fontFamily=Montserrat&desc=AI%20ENGINEERING%20%20%2F%20%20AGENTIC%20SYSTEMS%20%20%2F%20%20PYTHON&descSize=11&descAlignY=66&descColor=999999" width="100%" alt="Amruth Raj"/>
 
 <br/>
 
-*Building thoughtful software at the intersection of AI and engineering.*
-
-<br/>
+**Building thoughtful software at the intersection of AI and engineering.**
 
 <sub>PYTHON &nbsp;·&nbsp; LLM APPLICATIONS &nbsp;·&nbsp; AGENTIC WORKFLOWS</sub>
 
@@ -24,28 +22,28 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=54&text=01%20%2F%20Profile&fontSize=27&fontColor=F2F2F2&fontFamily=Playfair%20Display&fontAlign=0&fontAlignY=70" width="100%" alt="01 / Profile"/>
+## 𝟬𝟭  /  𝗣𝗥𝗢𝗙𝗜𝗟𝗘
 
 I build practical AI applications, agentic workflows, and automation tools. I care about the details that make software dependable: structured outputs, explicit validation, reliable tool use, and clear failure handling.
 
 <br/>
 
-<sub>LOCATION</sub>  
+<sub>𝗟𝗢𝗖𝗔𝗧𝗜𝗢𝗡</sub>  
 India
 
-<sub>EDUCATION</sub>  
+<sub>𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡</sub>  
 B.Tech · Civil Engineering · NIT Calicut
 
-<sub>CORE STACK</sub>  
+<sub>𝗖𝗢𝗥𝗘 𝗦𝗧𝗔𝗖𝗞</sub>  
 Python · LLM APIs · FastAPI · TypeScript
 
 <br/>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=54&text=02%20%2F%20Selected%20Work&fontSize=27&fontColor=F2F2F2&fontFamily=Playfair%20Display&fontAlign=0&fontAlignY=70" width="100%" alt="02 / Selected Work"/>
+## 𝟬𝟮  /  𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗪𝗢𝗥𝗞
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=42&text=01.%20Afterhours&fontSize=22&fontColor=E8E8E8&fontFamily=Playfair%20Display&fontAlign=0&fontAlignY=70" width="100%" alt="01. Afterhours"/>
+### 𝟬𝟭. 𝗔𝗙𝗧𝗘𝗥𝗛𝗢𝗨𝗥𝗦
 
 <sub>FULL-STACK PRODUCT &nbsp;·&nbsp; AI-ASSISTED DISCOVERY</sub>
 
@@ -57,7 +55,7 @@ Interest-based social discovery with profile matching, AI-assisted meetup planni
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=42&text=02.%20BOQ%20Tender%20Review&fontSize=22&fontColor=E8E8E8&fontFamily=Playfair%20Display&fontAlign=0&fontAlignY=70" width="100%" alt="02. BOQ Tender Review"/>
+### 𝟬𝟮. 𝗕𝗢𝗤 𝗧𝗘𝗡𝗗𝗘𝗥 𝗥𝗘𝗩𝗜𝗘𝗪
 
 <sub>DOCUMENT AI &nbsp;·&nbsp; ENGINEERING WORKFLOW</sub>
 
@@ -69,7 +67,7 @@ A tender review assistant for extracting BOQ data, checking specification alignm
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=42&text=03.%20Job%20Match%20Agent&fontSize=22&fontColor=E8E8E8&fontFamily=Playfair%20Display&fontAlign=0&fontAlignY=70" width="100%" alt="03. Job Match Agent"/>
+### 𝟬𝟯. 𝗝𝗢𝗕 𝗠𝗔𝗧𝗖𝗛 𝗔𝗚𝗘𝗡𝗧
 
 <sub>LLM &nbsp;·&nbsp; EXPLAINABLE MATCHING</sub>
 
@@ -81,7 +79,7 @@ Resume-to-role analysis combining extracted requirements, deterministic rules, a
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=42&text=04.%20Meeting%20Agent&fontSize=22&fontColor=E8E8E8&fontFamily=Playfair%20Display&fontAlign=0&fontAlignY=70" width="100%" alt="04. Meeting Agent"/>
+### 𝟬𝟰. 𝗠𝗘𝗘𝗧𝗜𝗡𝗚 𝗔𝗚𝗘𝗡𝗧
 
 <sub>AGENTIC WORKFLOW &nbsp;·&nbsp; TOOL USE</sub>
 
@@ -93,7 +91,7 @@ A scheduling agent with availability checks, timezone-aware booking, and overlap
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=42&text=05.%20Calendar%20MCP&fontSize=22&fontColor=E8E8E8&fontFamily=Playfair%20Display&fontAlign=0&fontAlignY=70" width="100%" alt="05. Calendar MCP"/>
+### 𝟬𝟱. 𝗖𝗔𝗟𝗘𝗡𝗗𝗔𝗥 𝗠𝗖𝗣
 
 <sub>MODEL CONTEXT PROTOCOL</sub>
 
@@ -105,7 +103,7 @@ A lightweight MCP server that exposes calendar inspection, slot discovery, and b
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=42&text=06.%20Ticket%20Triage&fontSize=22&fontColor=E8E8E8&fontFamily=Playfair%20Display&fontAlign=0&fontAlignY=70" width="100%" alt="06. Ticket Triage"/>
+### 𝟬𝟲. 𝗧𝗜𝗖𝗞𝗘𝗧 𝗧𝗥𝗜𝗔𝗚𝗘
 
 <sub>STRUCTURED CLASSIFICATION</sub>
 
@@ -116,7 +114,7 @@ Support ticket classification with validated outputs, urgency detection, and adv
 [Explore repository ↗](https://github.com/thiCCboy-blip/ticket-triage)
 
 <details>
-<summary><sub>ADDITIONAL WORK · CARBON COST ESTIMATOR</sub></summary>
+<summary><sub>𝗔𝗗𝗗𝗜𝗧𝗜𝗢𝗡𝗔𝗟 𝗪𝗢𝗥𝗞 · 𝗖𝗔𝗥𝗕𝗢𝗡 𝗖𝗢𝗦𝗧 𝗘𝗦𝗧𝗜𝗠𝗔𝗧𝗢𝗥</sub></summary>
 
 BOQ-based construction cost and embodied-carbon analysis, with material alternatives and scenario modelling.
 
@@ -128,11 +126,11 @@ BOQ-based construction cost and embodied-carbon analysis, with material alternat
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=54&text=03%20%2F%20Technology&fontSize=27&fontColor=F2F2F2&fontFamily=Playfair%20Display&fontAlign=0&fontAlignY=70" width="100%" alt="03 / Technology"/>
+## 𝟬𝟯  /  𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗬
 
 <div align="center">
 
-<sub>LANGUAGES</sub>
+<sub>𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘𝗦</sub>
 
 <img src="https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=E5E5E5"/>
 <img src="https://img.shields.io/badge/C%2B%2B-0D0D0D?style=flat-square&logo=cplusplus&logoColor=E5E5E5"/>
@@ -142,7 +140,7 @@ BOQ-based construction cost and embodied-carbon analysis, with material alternat
 
 <br/><br/>
 
-<sub>FRAMEWORKS & INFRASTRUCTURE</sub>
+<sub>𝗙𝗥𝗔𝗠𝗘𝗪𝗢𝗥𝗞𝗦 & 𝗜𝗡𝗙𝗥𝗔𝗦𝗧𝗥𝗨𝗖𝗧𝗨𝗥𝗘</sub>
 
 <img src="https://img.shields.io/badge/FastAPI-0D0D0D?style=flat-square&logo=fastapi&logoColor=E5E5E5"/>
 <img src="https://img.shields.io/badge/React-0D0D0D?style=flat-square&logo=react&logoColor=E5E5E5"/>
@@ -153,7 +151,7 @@ BOQ-based construction cost and embodied-carbon analysis, with material alternat
 
 <br/><br/>
 
-<sub>AI & ENGINEERING</sub>
+<sub>𝗔𝗜 & 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚</sub>
 
 <img src="https://img.shields.io/badge/LLM_APIs-0D0D0D?style=flat-square&logo=openai&logoColor=E5E5E5"/>
 <img src="https://img.shields.io/badge/MCP-0D0D0D?style=flat-square&logoColor=E5E5E5"/>
@@ -167,7 +165,7 @@ BOQ-based construction cost and embodied-carbon analysis, with material alternat
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=54&text=04%20%2F%20Current%20Interests&fontSize=27&fontColor=F2F2F2&fontFamily=Playfair%20Display&fontAlign=0&fontAlignY=70" width="100%" alt="04 / Current Interests"/>
+## 𝟬𝟰  /  𝗖𝗨𝗥𝗥𝗘𝗡𝗧 𝗜𝗡𝗧𝗘𝗥𝗘𝗦𝗧𝗦
 
 - Reliable agent architecture and orchestration
 - Retrieval, evaluation, and grounded generation
