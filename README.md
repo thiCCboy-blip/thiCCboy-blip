@@ -1,130 +1,186 @@
-<!-- AMRUTH RAJ | Monochrome portfolio -->
+<!-- AMRUTH RAJ · PERSONAL PORTFOLIO -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:202020&height=210&section=header&text=AMRUTH%20RAJ&fontSize=52&fontColor=FFFFFF&fontAlignY=40&desc=AI%20ENGINEERING%20%C2%B7%20AGENTIC%20SYSTEMS%20%C2%B7%20PYTHON&descSize=13&descAlignY=66&descColor=BDBDBD" width="100%" alt="Amruth Raj"/>
-  <br/>
-  <a href="https://github.com/thiCCboy-blip"><img src="https://img.shields.io/badge/GITHUB-thiCCboy--blip-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=thiCCboy-blip&style=for-the-badge&color=171717&label=VISITORS" alt="Profile visitors"/>
-  <br/><br/>
-  <h3>Building useful things with AI.</h3>
-  <p>LLM applications · Agentic workflows · Applied automation</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0b0b0b&height=230&section=header&text=AMRUTH%20RAJ&fontSize=58&fontColor=F5F5F5&fontAlignY=42&desc=AI%20ENGINEERING%20%2F%20AGENTIC%20SYSTEMS%20%2F%20PYTHON&descSize=12&descAlignY=68&descColor=888888" width="100%" alt="Amruth Raj — AI Engineering"/>
+
+<br/>
+
+**Building thoughtful software at the intersection of AI and engineering.**
+
+<sub>PYTHON &nbsp;·&nbsp; LLM APPLICATIONS &nbsp;·&nbsp; AGENTIC WORKFLOWS</sub>
+
+<br/><br/>
+
+<a href="https://github.com/thiCCboy-blip?tab=repositories">PROJECTS</a>
+&nbsp;&nbsp; / &nbsp;&nbsp;
+<a href="https://github.com/thiCCboy-blip">GITHUB</a>
+
 </div>
+
+<br/>
 
 ---
 
-## 01 / PROFILE
+### 01 &nbsp; / &nbsp; ABOUT
 
-I'm a developer interested in building AI-powered products and reliable automation. My work combines language models with structured data, explicit validation, and deterministic software where correctness matters.
+I build practical AI applications, agentic workflows, and automation tools. My focus is on systems that are useful beyond the demo: structured outputs, explicit validation, reliable tool use, and clear failure handling.
 
-- **Education:** B.Tech, Civil Engineering · NIT Calicut
-- **Core:** Python, LLM applications, tool calling, structured outputs
-- **Exploring:** Agent evaluation, retrieval, MCP, full-stack AI products
-- **Approach:** Practical systems, measurable behaviour, clear limitations
+**Based in** · India  
+**Education** · B.Tech, Civil Engineering · NIT Calicut  
+**Working with** · Python, LLM APIs, FastAPI, TypeScript
 
-> **Build with models. Verify with engineering.**
+<br/>
 
-## 02 / TOOLKIT
-
-<div align="center">
-  <p><sub>LANGUAGES</sub></p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,postgres&theme=dark" alt="Python, C++, JavaScript, TypeScript and PostgreSQL"/>
-  <br/><br/>
-  <p><sub>DEVELOPMENT</sub></p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,react,nextjs&theme=dark" alt="Git, GitHub, Linux, VS Code, React and Next.js"/>
-  <br/><br/>
-  <p><sub>AI / BACKEND / TESTING</sub></p>
-  <img src="https://img.shields.io/badge/OpenAI_API-171717?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API"/>
-  <img src="https://img.shields.io/badge/FastAPI-171717?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Pydantic-171717?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic"/>
-  <img src="https://img.shields.io/badge/Streamlit-171717?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Pytest-171717?style=flat-square&logo=pytest&logoColor=white" alt="Pytest"/>
-  <img src="https://img.shields.io/badge/MCP-171717?style=flat-square&logoColor=white" alt="MCP"/>
-</div>
-
-## 03 / SELECTED WORK
+### 02 &nbsp; / &nbsp; SELECTED PROJECTS
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>01 · AFTERHOURS</h3>
-      <sub>FULL-STACK · AI-ASSISTED PRODUCT</sub>
-      <p>Interest-based social discovery that helps people move from shared interests to meetup plans, with an AI-assisted planner and coordination recovery flow.</p>
-      <p><sub>Next.js · React · TypeScript · FastAPI · SQLite · OpenAI</sub></p>
-      <a href="https://github.com/thiCCboy-blip/afterhours-social-discovery">Explore repository ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>02 · BOQ TENDER REVIEW</h3>
-      <sub>DOCUMENT AI · EVALUATION</sub>
-      <p>Reviews Bills of Quantities against tender specifications using structured extraction, evidence excerpts, deterministic checks, and retrieval evaluation.</p>
-      <p><sub>Python · OpenAI · Pydantic · Streamlit · pytest</sub></p>
-      <a href="https://github.com/thiCCboy-blip/boq-tender-review-agent">Repository ↗</a> · <a href="https://amruu-boq-agent.streamlit.app/">Live demo ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>03 · JOB MATCH AGENT</h3>
-      <sub>LLM · EXPLAINABLE MATCHING</sub>
-      <p>Resume-to-job matching with extracted requirements, deterministic rules, and evidence-backed explanations instead of keyword-only scores.</p>
-      <p><sub>Python · LLMs · NLP · Embeddings · pytest</sub></p>
-      <a href="https://github.com/thiCCboy-blip/job-match-agent">Explore repository ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>04 · MEETING AGENT</h3>
-      <sub>AGENTIC WORKFLOW · TOOL CALLING</sub>
-      <p>A scheduling agent that checks availability and books slots with timezone handling, concurrency protection, and overlap prevention.</p>
-      <p><sub>Python · Tool Calling · Time Zones · pytest</sub></p>
-      <a href="https://github.com/thiCCboy-blip/meeting-agent">Explore repository ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>05 · CALENDAR MCP</h3>
-      <sub>MODEL CONTEXT PROTOCOL</sub>
-      <p>A lightweight MCP server exposing calendar inspection, slot-finding, and booking tools to AI clients.</p>
-      <p><sub>Python · MCP · JSON-RPC</sub></p>
-      <a href="https://github.com/thiCCboy-blip/calendar-mcp">Explore repository ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>06 · TICKET TRIAGE</h3>
-      <sub>LLM · STRUCTURED CLASSIFICATION</sub>
-      <p>Classifies support tickets into category, urgency, and summary with response validation and adversarial-input handling.</p>
-      <p><sub>Python · LLM APIs · Prompt Engineering · JSON</sub></p>
-      <a href="https://github.com/thiCCboy-blip/ticket-triage">Explore repository ↗</a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+**01 — AFTERHOURS**
+
+<sub>FULL-STACK PRODUCT · AI-ASSISTED DISCOVERY</sub>
+
+Interest-based social discovery with profile matching, AI-assisted meetup planning, and coordination workflows.
+
+<sub>Next.js / React / TypeScript / FastAPI / SQLite</sub>
+
+[VIEW PROJECT ↗](https://github.com/thiCCboy-blip/afterhours-social-discovery)
+
+</td>
+<td width="50%" valign="top">
+
+**02 — BOQ TENDER REVIEW**
+
+<sub>DOCUMENT AI · ENGINEERING WORKFLOW</sub>
+
+A tender review assistant for extracting BOQ data, checking specification alignment, and surfacing evidence-backed findings.
+
+<sub>Python / OpenAI / Pydantic / Streamlit</sub>
+
+[REPOSITORY ↗](https://github.com/thiCCboy-blip/boq-tender-review-agent) · [LIVE DEMO ↗](https://amruu-boq-agent.streamlit.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**03 — JOB MATCH AGENT**
+
+<sub>LLM · EXPLAINABLE MATCHING</sub>
+
+Resume-to-role analysis combining extracted requirements, deterministic rules, and evidence-backed match explanations.
+
+<sub>Python / LLMs / NLP</sub>
+
+[VIEW PROJECT ↗](https://github.com/thiCCboy-blip/job-match-agent)
+
+</td>
+<td width="50%" valign="top">
+
+**04 — MEETING AGENT**
+
+<sub>AGENTIC WORKFLOW · TOOL USE</sub>
+
+A scheduling agent with availability checks, timezone-aware booking, and overlap prevention.
+
+<sub>Python / Tool Calling / pytest</sub>
+
+[VIEW PROJECT ↗](https://github.com/thiCCboy-blip/meeting-agent)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**05 — CALENDAR MCP**
+
+<sub>MODEL CONTEXT PROTOCOL</sub>
+
+A lightweight MCP server that exposes calendar inspection, slot discovery, and booking tools to AI clients.
+
+<sub>Python / MCP / JSON-RPC</sub>
+
+[VIEW PROJECT ↗](https://github.com/thiCCboy-blip/calendar-mcp)
+
+</td>
+<td width="50%" valign="top">
+
+**06 — TICKET TRIAGE**
+
+<sub>STRUCTURED CLASSIFICATION</sub>
+
+Support ticket classification with validated outputs, urgency detection, and adversarial-input handling.
+
+<sub>Python / LLM APIs / JSON</sub>
+
+[VIEW PROJECT ↗](https://github.com/thiCCboy-blip/ticket-triage)
+
+</td>
+</tr>
 </table>
 
 <details>
-  <summary><strong>More work · Carbon Cost Estimator</strong></summary>
-  <p>Construction BOQ-based cost and embodied-carbon analysis, with material alternatives, carbon-price scenarios, and Excel export.</p>
-  <p><sub>Python · Streamlit · Data Analysis · Excel</sub></p>
-  <a href="https://github.com/thiCCboy-blip/carbon-cost-estimator">Explore repository ↗</a>
+<summary><sub>MORE WORK</sub></summary>
+
+**Carbon Cost Estimator** · BOQ-based construction cost and embodied-carbon analysis, with material alternatives and scenario modelling.
+
+[VIEW PROJECT ↗](https://github.com/thiCCboy-blip/carbon-cost-estimator)
+
 </details>
 
-## 04 / GITHUB
+<br/>
+
+### 03 &nbsp; / &nbsp; TOOLBOX
 
 <div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=thiCCboy-blip&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF&icon_color=FFFFFF&include_all_commits=true" alt="GitHub statistics"/>
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiCCboy-blip&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF" alt="Most used languages"/>
-  <br/>
-  <img width="76%" src="https://streak-stats.demolab.com?user=thiCCboy-blip&theme=transparent&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=9CA3AF&dates=6B7280" alt="GitHub contribution streak"/>
+
+<sub>LANGUAGES</sub>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,postgres&theme=dark" alt="Python, C++, JavaScript, TypeScript, PostgreSQL"/>
+
+<br/><br/>
+
+<sub>FRAMEWORKS & TOOLS</sub>
+
+<img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,git,github,linux&theme=dark" alt="FastAPI, React, Next.js, Git, GitHub, Linux"/>
+
+<br/><br/>
+
+<sub>AI · DATA · TESTING</sub>
+
+<img src="https://img.shields.io/badge/LLM%20APIs-161616?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-161616?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pydantic-161616?style=flat-square&logo=pydantic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-161616?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pytest-161616?style=flat-square&logo=pytest&logoColor=white"/>
+
 </div>
 
-## 05 / NOW EXPLORING
+<br/>
 
-- Reliable agent architectures and tool orchestration
-- Retrieval quality, evaluation, and grounded outputs
-- MCP integrations and AI-powered automation
-- Full-stack products with useful AI features
+### 04 &nbsp; / &nbsp; CURRENT INTERESTS
+
+- Reliable agent architecture and orchestration
+- Retrieval, evaluation, and grounded generation
+- MCP integrations and practical AI automation
+- Product-minded full-stack development
+
+<br/>
 
 ---
 
 <div align="center">
-  <sub>LESS HYPE. MORE ENGINEERING.</sub>
-  <br/><br/>
-  <a href="https://github.com/thiCCboy-blip">GITHUB</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/thiCCboy-blip?tab=repositories">ALL PROJECTS</a>
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:202020,100:050505&height=65&section=footer" width="100%" alt="Footer"/>
+
+<sub>LESS NOISE. MORE SIGNAL.</sub>
+
+<br/><br/>
+
+<a href="https://github.com/thiCCboy-blip?tab=repositories">EXPLORE ALL PROJECTS ↗</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0b0b0b&height=55&section=footer" width="100%" alt=""/>
+
 </div>
