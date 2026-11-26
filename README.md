@@ -22,26 +22,26 @@
 
 ---
 
-### <sub>01</sub> &nbsp; ABOUT
+### 01 &nbsp; / &nbsp; ABOUT
 
 I build practical AI applications, agentic workflows, and automation tools. My focus is on systems that are useful beyond the demo: structured outputs, explicit validation, reliable tool use, and clear failure handling.
 
-| | |
-|:--|:--|
-| **Based in** | India |
-| **Education** | B.Tech, Civil Engineering · NIT Calicut |
-| **Working with** | Python, LLM APIs, FastAPI, TypeScript |
+<sub>BASED IN</sub>  
+India
+
+<sub>EDUCATION</sub>  
+B.Tech, Civil Engineering · NIT Calicut
+
+<sub>WORKING WITH</sub>  
+Python · LLM APIs · FastAPI · TypeScript
 
 <br/>
 
-### <sub>02</sub> &nbsp; SELECTED PROJECTS
+---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 02 &nbsp; / &nbsp; SELECTED PROJECTS
 
-**01 / AFTERHOURS**
-
+**01 — AFTERHOURS**  
 <sub>FULL-STACK PRODUCT · AI-ASSISTED DISCOVERY</sub>
 
 Interest-based social discovery with profile matching, AI-assisted meetup planning, and coordination workflows.
@@ -50,11 +50,9 @@ Interest-based social discovery with profile matching, AI-assisted meetup planni
 
 [VIEW PROJECT ↗](https://github.com/thiCCboy-blip/afterhours-social-discovery)
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-**02 / BOQ TENDER REVIEW**
-
+**02 — BOQ TENDER REVIEW**  
 <sub>DOCUMENT AI · ENGINEERING WORKFLOW</sub>
 
 A tender review assistant for extracting BOQ data, checking specification alignment, and surfacing evidence-backed findings.
@@ -63,13 +61,9 @@ A tender review assistant for extracting BOQ data, checking specification alignm
 
 [REPOSITORY ↗](https://github.com/thiCCboy-blip/boq-tender-review-agent) · [LIVE DEMO ↗](https://amruu-boq-agent.streamlit.app/)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
-**03 / JOB MATCH AGENT**
-
+**03 — JOB MATCH AGENT**  
 <sub>LLM · EXPLAINABLE MATCHING</sub>
 
 Resume-to-role analysis combining extracted requirements, deterministic rules, and evidence-backed match explanations.
@@ -78,11 +72,9 @@ Resume-to-role analysis combining extracted requirements, deterministic rules, a
 
 [VIEW PROJECT ↗](https://github.com/thiCCboy-blip/job-match-agent)
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-**04 / MEETING AGENT**
-
+**04 — MEETING AGENT**  
 <sub>AGENTIC WORKFLOW · TOOL USE</sub>
 
 A scheduling agent with availability checks, timezone-aware booking, and overlap prevention.
@@ -91,13 +83,9 @@ A scheduling agent with availability checks, timezone-aware booking, and overlap
 
 [VIEW PROJECT ↗](https://github.com/thiCCboy-blip/meeting-agent)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
-**05 / CALENDAR MCP**
-
+**05 — CALENDAR MCP**  
 <sub>MODEL CONTEXT PROTOCOL</sub>
 
 A lightweight MCP server that exposes calendar inspection, slot discovery, and booking tools to AI clients.
@@ -106,11 +94,9 @@ A lightweight MCP server that exposes calendar inspection, slot discovery, and b
 
 [VIEW PROJECT ↗](https://github.com/thiCCboy-blip/calendar-mcp)
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-**06 / TICKET TRIAGE**
-
+**06 — TICKET TRIAGE**  
 <sub>STRUCTURED CLASSIFICATION</sub>
 
 Support ticket classification with validated outputs, urgency detection, and adversarial-input handling.
@@ -119,14 +105,10 @@ Support ticket classification with validated outputs, urgency detection, and adv
 
 [VIEW PROJECT ↗](https://github.com/thiCCboy-blip/ticket-triage)
 
-</td>
-</tr>
-</table>
-
 <details>
-<summary><sub>MORE WORK</sub></summary>
+<summary><sub>MORE WORK · CARBON COST ESTIMATOR</sub></summary>
 
-**Carbon Cost Estimator** · BOQ-based construction cost and embodied-carbon analysis, with material alternatives and scenario modelling.
+BOQ-based construction cost and embodied-carbon analysis, with material alternatives and scenario modelling.
 
 [VIEW PROJECT ↗](https://github.com/thiCCboy-blip/carbon-cost-estimator)
 
@@ -134,7 +116,9 @@ Support ticket classification with validated outputs, urgency detection, and adv
 
 <br/>
 
-### <sub>03</sub> &nbsp; TECHNOLOGIES
+---
+
+### 03 &nbsp; / &nbsp; TECHNOLOGIES
 
 <div align="center">
 
@@ -171,7 +155,7 @@ Support ticket classification with validated outputs, urgency detection, and adv
 
 <br/>
 
-### <sub>04</sub> &nbsp; CURRENT INTERESTS
+### 04 &nbsp; / &nbsp; CURRENT INTERESTS
 
 - Reliable agent architecture and orchestration
 - Retrieval, evaluation, and grounded generation
