@@ -1,19 +1,19 @@
-<!-- AMRUTH RAJ · MIDNIGHT PORTFOLIO -->
+<!-- AMRUTH RAJ · MONOCHROME PORTFOLIO -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071321,45:102A45,100:071321&height=250&section=header&text=AMRUTH%20RAJ&fontSize=60&fontColor=F1F5FA&fontAlignY=40&desc=AI%20ENGINEERING%20%20%E2%80%A2%20%20AGENTIC%20SYSTEMS%20%20%E2%80%A2%20%20PYTHON&descSize=12&descAlignY=66&descColor=A9BED4" width="100%" alt="Amruth Raj"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:111111,100:050505&height=250&section=header&text=AMRUTH%20RAJ&fontSize=60&fontColor=F5F5F5&fontAlignY=40&desc=AI%20ENGINEERING%20%20%E2%80%A2%20%20AGENTIC%20SYSTEMS%20%20%E2%80%A2%20%20PYTHON&descSize=12&descAlignY=66&descColor=A0A0A0" width="100%" alt="Amruth Raj"/>
 
 <br/>
 
 **Building thoughtful software at the intersection of AI and engineering.**
 
-<sub><font color="#8FAFCB">PYTHON &nbsp;·&nbsp; LLM APPLICATIONS &nbsp;·&nbsp; AGENTIC WORKFLOWS</font></sub>
+<sub>PYTHON &nbsp;·&nbsp; LLM APPLICATIONS &nbsp;·&nbsp; AGENTIC WORKFLOWS</sub>
 
 <br/><br/>
 
 <a href="https://github.com/thiCCboy-blip?tab=repositories">PROJECTS</a>
-&nbsp;&nbsp; <sub>✦</sub> &nbsp;&nbsp;
+&nbsp;&nbsp; · &nbsp;&nbsp;
 <a href="https://github.com/thiCCboy-blip">GITHUB</a>
 
 </div>
@@ -140,32 +140,32 @@ Support ticket classification with validated outputs, urgency detection, and adv
 
 <sub>LANGUAGES</sub>
 
-<img src="https://img.shields.io/badge/Python-10243A?style=flat-square&logo=python&logoColor=C4D9EC"/>
-<img src="https://img.shields.io/badge/C%2B%2B-10243A?style=flat-square&logo=cplusplus&logoColor=C4D9EC"/>
-<img src="https://img.shields.io/badge/JavaScript-10243A?style=flat-square&logo=javascript&logoColor=C4D9EC"/>
-<img src="https://img.shields.io/badge/TypeScript-10243A?style=flat-square&logo=typescript&logoColor=C4D9EC"/>
-<img src="https://img.shields.io/badge/PostgreSQL-10243A?style=flat-square&logo=postgresql&logoColor=C4D9EC"/>
+<img src="https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=E5E5E5"/>
+<img src="https://img.shields.io/badge/C%2B%2B-0D0D0D?style=flat-square&logo=cplusplus&logoColor=E5E5E5"/>
+<img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=flat-square&logo=javascript&logoColor=E5E5E5"/>
+<img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=flat-square&logo=typescript&logoColor=E5E5E5"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0D0D0D?style=flat-square&logo=postgresql&logoColor=E5E5E5"/>
 
 <br/><br/>
 
 <sub>FRAMEWORKS & INFRASTRUCTURE</sub>
 
-<img src="https://img.shields.io/badge/FastAPI-10243A?style=flat-square&logo=fastapi&logoColor=C4D9EC"/>
-<img src="https://img.shields.io/badge/React-10243A?style=flat-square&logo=react&logoColor=C4D9EC"/>
-<img src="https://img.shields.io/badge/Next.js-10243A?style=flat-square&logo=nextdotjs&logoColor=C4D9EC"/>
-<img src="https://img.shields.io/badge/Git-10243A?style=flat-square&logo=git&logoColor=C4D9EC"/>
-<img src="https://img.shields.io/badge/GitHub-10243A?style=flat-square&logo=github&logoColor=C4D9EC"/>
-<img src="https://img.shields.io/badge/Linux-10243A?style=flat-square&logo=linux&logoColor=C4D9EC"/>
+<img src="https://img.shields.io/badge/FastAPI-0D0D0D?style=flat-square&logo=fastapi&logoColor=E5E5E5"/>
+<img src="https://img.shields.io/badge/React-0D0D0D?style=flat-square&logo=react&logoColor=E5E5E5"/>
+<img src="https://img.shields.io/badge/Next.js-0D0D0D?style=flat-square&logo=nextdotjs&logoColor=E5E5E5"/>
+<img src="https://img.shields.io/badge/Git-0D0D0D?style=flat-square&logo=git&logoColor=E5E5E5"/>
+<img src="https://img.shields.io/badge/GitHub-0D0D0D?style=flat-square&logo=github&logoColor=E5E5E5"/>
+<img src="https://img.shields.io/badge/Linux-0D0D0D?style=flat-square&logo=linux&logoColor=E5E5E5"/>
 
 <br/><br/>
 
 <sub>AI & ENGINEERING</sub>
 
-<img src="https://img.shields.io/badge/LLM_APIs-10243A?style=flat-square&logo=openai&logoColor=C4D9EC"/>
-<img src="https://img.shields.io/badge/MCP-10243A?style=flat-square&logoColor=C4D9EC"/>
-<img src="https://img.shields.io/badge/Pydantic-10243A?style=flat-square&logo=pydantic&logoColor=C4D9EC"/>
-<img src="https://img.shields.io/badge/Streamlit-10243A?style=flat-square&logo=streamlit&logoColor=C4D9EC"/>
-<img src="https://img.shields.io/badge/Pytest-10243A?style=flat-square&logo=pytest&logoColor=C4D9EC"/>
+<img src="https://img.shields.io/badge/LLM_APIs-0D0D0D?style=flat-square&logo=openai&logoColor=E5E5E5"/>
+<img src="https://img.shields.io/badge/MCP-0D0D0D?style=flat-square&logoColor=E5E5E5"/>
+<img src="https://img.shields.io/badge/Pydantic-0D0D0D?style=flat-square&logo=pydantic&logoColor=E5E5E5"/>
+<img src="https://img.shields.io/badge/Streamlit-0D0D0D?style=flat-square&logo=streamlit&logoColor=E5E5E5"/>
+<img src="https://img.shields.io/badge/Pytest-0D0D0D?style=flat-square&logo=pytest&logoColor=E5E5E5"/>
 
 </div>
 
@@ -192,6 +192,6 @@ Support ticket classification with validated outputs, urgency detection, and adv
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071321,50:102A45,100:071321&height=80&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:111111,100:050505&height=70&section=footer" width="100%" alt=""/>
 
 </div>
