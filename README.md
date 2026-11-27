@@ -1,20 +1,45 @@
-<!-- AMRUTH RAJ · CLEAN MONOCHROME PORTFOLIO -->
+<!-- AMRUTH RAJ · MONOCHROME ASCII PROFILE -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:101010,100:050505&height=250&section=header&text=AMRUTH%20RAJ&fontSize=58&fontColor=F5F5F5&fontAlignY=40&fontFamily=Montserrat&desc=AI%20ENGINEERING%20%20%2F%20%20AGENTIC%20SYSTEMS%20%20%2F%20%20PYTHON&descSize=11&descAlignY=66&descColor=999999" width="100%" alt="Amruth Raj"/>
+<pre>
+ █████╗ ███╗   ███╗██████╗ ██╗   ██╗████████╗██╗  ██╗
+██╔══██╗████╗ ████║██╔══██╗██║   ██║╚══██╔══╝██║  ██║
+███████║██╔████╔██║██████╔╝██║   ██║   ██║   ███████║
+██╔══██║██║╚██╔╝██║██╔══██╗██║   ██║   ██║   ██╔══██║
+██║  ██║██║ ╚═╝ ██║██║  ██║╚██████╔╝   ██║   ██║  ██║
+╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝
+
+                 AMRUTH RAJ
+</pre>
+
+<pre>
+                 .-""""-.
+               .'  .--.  '.
+              /   /    \   \
+             |   |  .-. |   |
+             |   | (   )|   |
+              \   \ '-' /  /
+               '.  '---' .'
+                 '-.__.-'
+              .-==========-.
+             /  ASCII / AI  \
+            /________________\
+</pre>
+
+**AI ENGINEERING / AGENTIC SYSTEMS / PYTHON**
+
+<sub>BUILDING PRACTICAL SOFTWARE · EXPLORING INTELLIGENT SYSTEMS</sub>
 
 <br/>
-
-**Building thoughtful software at the intersection of AI and engineering.**
-
-<sub>PYTHON &nbsp;·&nbsp; LLM APPLICATIONS &nbsp;·&nbsp; AGENTIC WORKFLOWS</sub>
-
-<br/><br/>
 
 <a href="https://github.com/thiCCboy-blip?tab=repositories">EXPLORE PROJECTS</a>
 &nbsp;&nbsp; / &nbsp;&nbsp;
 <a href="https://github.com/thiCCboy-blip">GITHUB</a>
+
+<br/><br/>
+
+<sub>LESS NOISE. MORE SIGNAL.</sub>
 
 </div>
 
