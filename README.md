@@ -1,47 +1,111 @@
-<!-- AMRUTH RAJ · MONOCHROME ASCII PROFILE -->
+<!-- AMRUTH RAJ · WOW-INSPIRED ASCII PROFILE -->
 
 <div align="center">
 
-<pre>
- █████╗ ███╗   ███╗██████╗ ██╗   ██╗████████╗██╗  ██╗
-██╔══██╗████╗ ████║██╔══██╗██║   ██║╚══██╔══╝██║  ██║
-███████║██╔████╔██║██████╔╝██║   ██║   ██║   ███████║
-██╔══██║██║╚██╔╝██║██╔══██╗██║   ██║   ██║   ██╔══██║
-██║  ██║██║ ╚═╝ ██║██║  ██║╚██████╔╝   ██║   ██║  ██║
-╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝
-
-                
-</pre>
-
-<pre>
-                 .-""""-.
-               .'  .--.  '.
-              /   /    \   \
-             |   |  .-. |   |
-             |   | (   )|   |
-              \   \ '-' /  /
-               '.  '---' .'
-                 '-.__.-'
-              .-==========-.
-             /  ASCII / AI  \
-            /________________\
-</pre>
-
-**AI ENGINEERING / AGENTIC SYSTEMS / PYTHON**
-
-<sub>BUILDING PRACTICAL SOFTWARE · EXPLORING INTELLIGENT SYSTEMS</sub>
-
-<br/>
-
-<a href="https://github.com/thiCCboy-blip?tab=repositories">EXPLORE PROJECTS</a>
-&nbsp;&nbsp; / &nbsp;&nbsp;
-<a href="https://github.com/thiCCboy-blip">GITHUB</a>
+<sub>G I T H U B  /  L I V I N G  I D E N T I T Y</sub>
 
 <br/><br/>
 
-<sub>LESS NOISE. MORE SIGNAL.</sub>
+<table border="0" width="100%">
+<tr>
+<td width="56%" valign="middle">
+
+<sub>H E L L O ,  W O R L D .  I ' M</sub>
+
+# AMRUTH RAJ
+
+<sub>AI ENGINEERING / AGENTIC SYSTEMS / PYTHON</sub>
+
+<sub>India · NIT Calicut</sub>
+
+</td>
+<td width="44%" align="center" valign="middle">
+
+<pre>
+         :-----:::...:::..             .
+       -===--::=+++*%%%#+=#++=-=-:   ....
+     .====----*%%@@@@@@@@%@@@@@@@@*.  ...::
+     -====-==+@@@@@@@@@@@@@@@@@@@@@#++-.:::-
+    .====--+##@@@@@@@@@@@@@@@@@@@@@@@@%=.:---
+    .====--+@@@@@@@@@@%#*=---==+#@@@@@@%+----=
+    .===---*@@@@@@%#+---:.    ..:-*%@@@@@#---=
+    .===---%@@@@%#+:::---::......:-=#@@@#*--===
+    .====--%@@%##*=:---=***##**+==--=#+::::::-:
+    .====--#@%###*-::.:+#%%%@@@@@%#*##****=:-+*
+    .======+**+-**-:.   .-*%@%%@@@#+#@@@@@*:-+#
+    .=======:=#++%+=-:.    ...-#**%@%@@@@@+-==
+    .=+=====-:-+#%*+=--::.   .+%##@@@@@@@+::-=
+    .=+====++++*@@%#*+=--:.  .=@@@@@@@@@+:=+*
+    .++=====*@@@@@@@@%%#*=-+#%@@@@@@@@@+.=+*
+     ++++===*@@@@@@@@@@@%##@@%#%@@@@@@+:-+*
+       ++===#@@@@@@@@@@@@@@%*#%@@@@@+-=+*
+        +**+%@@@@@@@@@@@@@@%**#@@@@#:=*#
+           @@@@@@@@@@@@@@@@@@@@@@@@*-
+               @@@@@@@@@@@@@@@@@@
+                       @@
+</pre>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<sub>LIVE GITHUB SIGNAL</sub>
+
+<img src="https://github-readme-stats.vercel.app/api?username=thiCCboy-blip&show_icons=true&hide_border=true&bg_color=0B0F19&title_color=E5E7EB&text_color=9CA3AF&icon_color=8AB4F8&include_all_commits=true" width="100%" alt="GitHub profile statistics"/>
+
+<br/>
+
+<img src="https://img.shields.io/github/followers/thiCCboy-blip?style=flat-square&label=FOLLOWERS&color=171717&labelColor=0B0F19" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/thiCCboy-blip?style=flat-square&label=STARS&color=171717&labelColor=0B0F19" alt="Stars"/>
+<img src="https://img.shields.io/github/last-commit/thiCCboy-blip/thiCCboy-blip?style=flat-square&label=PROFILE%20UPDATED&color=171717&labelColor=0B0F19" alt="Last profile update"/>
+
+<br/><br/>
+
+**Frontend or full-stack engineer · AI systems & automation**
+
+<br/>
+
+<a href="https://github.com/thiCCboy-blip?tab=repositories">GitHub repositories ↗</a>
 
 </div>
+
+<br/>
+
+---
+
+## Identity, with signal
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+### AMRUTH RAJ
+
+**Focus**
+
+- Python · LLM applications
+- Agentic workflows · AI automation
+- SQL · Data analysis
+- FastAPI · TypeScript
+
+Thoughtful engineering, practical AI systems, and tools that solve real problems.
+
+</td>
+<td width="42%" valign="top">
+
+### LIVE SIGNAL
+
+<img src="https://img.shields.io/github/followers/thiCCboy-blip?style=flat-square&label=FOLLOWERS&color=171717&labelColor=0B0F19" alt="Followers"/>
+
+<img src="https://img.shields.io/github/stars/thiCCboy-blip?style=flat-square&label=STARS&color=171717&labelColor=0B0F19" alt="Stars"/>
+
+<img src="https://img.shields.io/github/commit-activity/m/thiCCboy-blip/thiCCboy-blip?style=flat-square&label=MONTHLY%20COMMITS&color=171717&labelColor=0B0F19" alt="Monthly commits"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
